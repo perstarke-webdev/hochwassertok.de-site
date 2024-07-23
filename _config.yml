@@ -10,7 +10,7 @@ oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hochwassertok"
+title                    : "HochwasserTok"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://hochwassertok.de" # the base hostname & protocol for your site
