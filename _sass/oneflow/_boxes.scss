@@ -9,6 +9,10 @@
     border-radius: 5px;
     background-color: rgba($primary-color, 0.05);
     flex: 1 1 calc(100% - 20px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
 }
 
 .alternative-color .box {
