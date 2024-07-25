@@ -4,11 +4,7 @@ title: Impressum und Datenschutz
 permalink: /imprint
 ---
 
-#### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
-
-<hr>
+<br><br><br><br><br>
 
 #### Anbieter und Verantwortliche Person
 Per Starke, Willi-Lauf Allee 43, D-50858 Köln
