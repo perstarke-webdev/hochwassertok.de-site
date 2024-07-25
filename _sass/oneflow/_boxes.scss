@@ -15,6 +15,14 @@
     padding: 20px;
 }
 
+.box-newsletter {
+    border: 1.5px solid $primary-color;
+    border-radius: 5px;
+    background-color: rgba($primary-color, 0.05);
+    padding: 20px;
+    margin-top: 20px;
+}
+
 .alternative-color .box {
     background-color: rgba($background-color, 0.05);
 }
