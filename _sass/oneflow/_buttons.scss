@@ -28,6 +28,10 @@
     margin-left: -0.5em; /* override for hidden text*/
   }
 
+  .btn--cookie {
+      color: #989189;
+  }
+
   /* button colors */
   $buttoncolors:
   (primary, $primary-color),
@@ -36,7 +40,8 @@
   (success, $success-color),
   (warning, $warning-color),
   (danger, $danger-color),
-  (info, $info-color);
+  (info, $info-color),
+  (cookie, #004D5B);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -93,3 +98,4 @@
     font-size: $type-size-7;
   }
 }
+
